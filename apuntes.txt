@@ -1,2 +1,2 @@
 Comandos básicos de GIT
-Añado un cambio desde el editor de github
+al final borro las dos líneas y añado esta misma
