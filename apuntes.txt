@@ -1,2 +1,1 @@
-No tenemos que hacer un git add . 
-Enviamos uno por uno nuestros archivos a nuestro stagging area
+Comandos básicos de GIT
